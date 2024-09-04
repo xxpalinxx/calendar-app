@@ -109,6 +109,10 @@
     box-shadow: 0 0 1.5rem rgba(239, 144, 17, 0.3);
 }
 
+.day-with-event {
+    background-color: #00a3ff;
+}
+
 .events {
     width: 60%;
     height: 100%;
